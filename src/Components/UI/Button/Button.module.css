@@ -1,0 +1,24 @@
+.Button{
+    text-align: center;
+    border:none;
+    font-family: "Roboto", sans-serif;
+    width: 100vw;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: underline;
+    color: rgba(52, 52, 52, 0.89);
+    background-color: white;
+    padding: 1rem 0;
+    outline:none;
+}
+
+
+.Button:hover{
+    background-color: rgba(255, 192, 203, 0.09);
+}
+
+@media (min-width: 1000px){
+    .Button{
+        font-size: 2.5rem;
+    }
+}

@@ -1,0 +1,15 @@
+.Content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.Content h2{
+    text-align: left;
+    padding: 1rem;
+    margin:0;
+}
+
+.Content ul li{
+    text-align: left;
+    padding:0.25rem;
+}
