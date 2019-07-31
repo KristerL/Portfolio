@@ -15,7 +15,7 @@ const ContentDisplay = (props) =>{
             content = <Work/>;
             break;
         default:
-            content = <div><h1>KRISTER LOOGA</h1><h3>Junior Front End Developer</h3></div>;
+            content = <div><h1>KRISTER LOOGA</h1><h3>Junior Front-End Developer</h3></div>;
     }
     return(
         <div className={classes.ContentDisplay}>

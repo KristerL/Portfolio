@@ -7,10 +7,10 @@ const AboutMe = () =>{
       <div className={classes.Content}>
           <h2>Currently:</h2>
           <ul>
-              <li>Working as Junior Front-End Developer at REACH-U</li>
+              <li>Working as a Junior Front-End Developer at Reach-U</li>
               <li>Studying Computer Science at The University of Tartu</li>
-              <li>Reading books about finance, stoic philosophy and psychology</li>
-              <li>Intrests: Programming, fitness, personal finance, travel, videography</li>
+              <li>Reading books about finance, Stoic philosophy and psychology</li>
+              <li>Interests: Programming, fitness, personal finance, travel, videography</li>
               <li>President of the Student Society of Mathematics and Informatics</li>
           </ul>
           <h2>Skills:</h2>
