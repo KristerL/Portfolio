@@ -1,50 +1,51 @@
-.ContentDisplay{
+.ContentDisplay {
     display: flex;
     flex-direction: column;
-    padding-left:1rem;
+    padding-left: 1rem;
     text-align: center;
     width: 100vw;
 }
 
-.ContentDisplay h1{
+.ContentDisplay h1 {
     font-size: 2rem;
     font-weight: bold;
     color: rgba(52, 52, 52, 0.89);
-    margin:0;
+    margin: 0;
 }
-.ContentDisplay h3{
+
+.ContentDisplay h3 {
     font-size: 1rem;
     font-weight: bold;
 }
 
-.Header{
+.Header {
     text-align: left;
 }
 
-@media (min-width: 700px){
-    .ContentDisplay h1{
+@media (min-width: 700px) {
+    .ContentDisplay h1 {
         font-size: 4rem;
     }
 
-    .ContentDisplay h3{
+    .ContentDisplay h3 {
         font-size: 2rem;
     }
 }
 
-@media (min-width: 850px){
-    .ContentDisplay{
+@media (min-width: 850px) {
+    .ContentDisplay {
         font-size: 1.5rem;
         align-items: center;
         padding-left: 0;
     }
 
-    .ContentDisplay h1{
-        font-size:3.5rem;
+    .ContentDisplay h1 {
+        font-size: 3.5rem;
     }
 }
 
-@media (min-width: 1400px){
-    .ContentDisplay{
+@media (min-width: 1400px) {
+    .ContentDisplay {
         font-size: 1rem;
 
     }

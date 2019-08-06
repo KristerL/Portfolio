@@ -1,9 +1,9 @@
-*{
-  text-align: center;
-  box-sizing: border-box;
-  color: rgba(40, 40, 40, 0.93);
+* {
+    text-align: center;
+    box-sizing: border-box;
+    color: rgba(40, 40, 40, 0.93);
 }
 
-.App{
-  height: 100%;
+.App {
+    height: 100%;
 }

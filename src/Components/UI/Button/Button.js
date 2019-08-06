@@ -2,9 +2,9 @@ import React from "react";
 
 import classes from "./Button.module.css"
 
-const Button = (props) =>{
+const Button = (props) => {
 
-    const handleClick = () =>{
+    const handleClick = () => {
         props.select(props.label)
     };
     return (

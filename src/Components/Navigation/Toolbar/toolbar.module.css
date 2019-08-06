@@ -1,12 +1,12 @@
-.Toolbar{
-    width:100%;
+.Toolbar {
+    width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 
-.Toolbar header{
+.Toolbar header {
     height: 56px;
     border-bottom: 2px solid black;
 }

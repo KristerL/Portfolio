@@ -1,6 +1,6 @@
-.Button{
+.Button {
     text-align: center;
-    border:none;
+    border: none;
     font-family: "Roboto", sans-serif;
     width: 100vw;
     font-size: 1.5rem;
@@ -9,16 +9,17 @@
     color: rgba(52, 52, 52, 0.89);
     background-color: white;
     padding: 1rem 0;
-    outline:none;
+    outline: none;
+    flex-shrink: 0;
 }
 
 
-.Button:hover{
+.Button:hover {
     background-color: rgba(255, 192, 203, 0.06);
 }
 
-@media (min-width: 1000px){
-    .Button{
+@media (min-width: 1000px) {
+    .Button {
         font-size: 2.5rem;
     }
 }
