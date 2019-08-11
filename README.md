@@ -1,3 +1,4 @@
-Responsive personal portfolio built in React.
+## A personal portfolio built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Goal was to test out React and keep it super simple and minimalistic.
+Site can be found on www.kristerlooga.com
