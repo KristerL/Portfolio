@@ -23,9 +23,12 @@ const ContentDisplay = (props) => {
                 <h1>KRISTER LOOGA</h1>
                 <h3>Junior Front-End Developer</h3>
                 <div className={"test"}>
-                    <a href={"mailto:looga.krister@gmail.com"}> <FontAwesomeIcon icon={faEnvelope}/></a>
-                    <a href={"https://www.linkedin.com/in/kristerlooga/"}><FontAwesomeIcon icon={faLinkedin}/></a>
-                    <a href={"https://github.com/KristerL"}><FontAwesomeIcon icon={faGithub}/></a>
+                    <a href={"mailto:looga.krister@gmail.com"} aria-label={"Email address"} target={"_blank"}
+                       rel={"noopener"}> <FontAwesomeIcon icon={faEnvelope}/></a>
+                    <a href={"https://www.linkedin.com/in/kristerlooga/"} aria-label={"Linkedin address"}
+                       target={"_blank"} rel={"noopener"}><FontAwesomeIcon icon={faLinkedin}/></a>
+                    <a href={"https://github.com/KristerL"} aria-label={"Github address"} target={"_blank"}
+                       rel={"noopener"}><FontAwesomeIcon icon={faGithub}/></a>
 
                 </div>
             </div>;

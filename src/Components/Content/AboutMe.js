@@ -9,14 +9,13 @@ const AboutMe = () => {
             <ul>
                 <li>Working as a Junior Front-End Developer at Reach-U</li>
                 <li>Studying Computer Science at The University of Tartu</li>
-                <li>Reading books about finance, Stoic philosophy and psychology</li>
+                <li>Reading books about finance, philosophy and psychology</li>
                 <li>Interests: Programming, fitness, personal finance, travel, videography</li>
-                <li>President of the Student Society of Mathematics and Informatics</li>
             </ul>
             <h2>Skills:</h2>
             <ul>
                 <li>Java, Javascript, HTML, CSS</li>
-                <li>React, Typescript, D3, Cesium</li>
+                <li>React, Vue, Typescript, D3, Cesium</li>
                 <li>SQL, Firebase</li>
                 <li>GIT, UNIX, Docker, IntelliJ</li>
             </ul>

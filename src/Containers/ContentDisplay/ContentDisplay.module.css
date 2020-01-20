@@ -29,7 +29,7 @@
 
 @media (min-width: 700px) {
     .ContentDisplay h1 {
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
 
     .ContentDisplay h3 {
@@ -39,19 +39,19 @@
 
 @media (min-width: 850px) {
     .ContentDisplay {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
         align-items: center;
         padding-left: 0;
     }
 
     .ContentDisplay h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 }
 
 @media (min-width: 1400px) {
     .ContentDisplay {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
 
     }
 }
