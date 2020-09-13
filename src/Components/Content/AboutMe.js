@@ -7,15 +7,15 @@ const AboutMe = () => {
         <div className={classes.Content}>
             <h2>Currently:</h2>
             <ul>
-                <li>Working as a Junior Front-End Developer at Reach-U</li>
+                <li>Working as a Software Developer at Reach-U</li>
                 <li>Studying Computer Science at The University of Tartu</li>
                 <li>Reading books about finance, philosophy and psychology</li>
-                <li>Interests: Programming, fitness, personal finance, travel, videography</li>
+                <li>Interests: Programming, fitness, personal finance, travelling</li>
             </ul>
             <h2>Skills:</h2>
             <ul>
                 <li>Java, Javascript, HTML, CSS</li>
-                <li>React, Vue, Typescript, D3, Cesium</li>
+                <li>React, Vue, D3, Cesium</li>
                 <li>SQL, Firebase</li>
                 <li>GIT, UNIX, Docker, IntelliJ</li>
             </ul>
