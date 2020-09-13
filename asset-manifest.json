@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9d399826.chunk.css",
-    "main.js": "/Portfolio/static/js/main.6f66ba6c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.6f66ba6c.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.391ed42e.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.391ed42e.js.map",
-    "static/js/2.1c2b99e8.chunk.js": "/Portfolio/static/js/2.1c2b99e8.chunk.js",
-    "static/js/2.1c2b99e8.chunk.js.map": "/Portfolio/static/js/2.1c2b99e8.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.d50ed432c95fec73855a7867d926c9de.js": "/Portfolio/precache-manifest.d50ed432c95fec73855a7867d926c9de.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.9d399826.chunk.css.map": "/Portfolio/static/css/main.9d399826.chunk.css.map",
-    "static/js/2.1c2b99e8.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1c2b99e8.chunk.js.LICENSE.txt"
+    "main.css": "/kristerl.github.io/Portfolio/static/css/main.9d399826.chunk.css",
+    "main.js": "/kristerl.github.io/Portfolio/static/js/main.6f66ba6c.chunk.js",
+    "main.js.map": "/kristerl.github.io/Portfolio/static/js/main.6f66ba6c.chunk.js.map",
+    "runtime-main.js": "/kristerl.github.io/Portfolio/static/js/runtime-main.d7fb396a.js",
+    "runtime-main.js.map": "/kristerl.github.io/Portfolio/static/js/runtime-main.d7fb396a.js.map",
+    "static/js/2.1c2b99e8.chunk.js": "/kristerl.github.io/Portfolio/static/js/2.1c2b99e8.chunk.js",
+    "static/js/2.1c2b99e8.chunk.js.map": "/kristerl.github.io/Portfolio/static/js/2.1c2b99e8.chunk.js.map",
+    "index.html": "/kristerl.github.io/Portfolio/index.html",
+    "precache-manifest.e3c522fd638b2f4d67e86198a230044f.js": "/kristerl.github.io/Portfolio/precache-manifest.e3c522fd638b2f4d67e86198a230044f.js",
+    "service-worker.js": "/kristerl.github.io/Portfolio/service-worker.js",
+    "static/css/main.9d399826.chunk.css.map": "/kristerl.github.io/Portfolio/static/css/main.9d399826.chunk.css.map",
+    "static/js/2.1c2b99e8.chunk.js.LICENSE.txt": "/kristerl.github.io/Portfolio/static/js/2.1c2b99e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.391ed42e.js",
+    "static/js/runtime-main.d7fb396a.js",
     "static/js/2.1c2b99e8.chunk.js",
     "static/css/main.9d399826.chunk.css",
     "static/js/main.6f66ba6c.chunk.js"
