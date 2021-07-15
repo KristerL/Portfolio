@@ -21,7 +21,7 @@ const ContentDisplay = (props) => {
         default:
             content = <div>
                 <h1>KRISTER LOOGA</h1>
-                <h3>Software Developer</h3>
+                <h3>Software Developer @ <span>Reach-U</span></h3>
                 <div className={"test"}>
                     <a href={"mailto:looga.krister@gmail.com"} aria-label={"Email address"} target={"_blank"}
                        rel={"noopener"}> <FontAwesomeIcon icon={faEnvelope}/></a>

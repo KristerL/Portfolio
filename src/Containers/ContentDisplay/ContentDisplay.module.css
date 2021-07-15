@@ -1,9 +1,14 @@
 .ContentDisplay {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100%;
+
     padding-left: 1rem;
     text-align: center;
-    width: 100vw;
 }
 
 .ContentDisplay h1 {
@@ -17,6 +22,10 @@
     font-size: 1rem;
     font-weight: bold;
     margin: 0.75rem;
+}
+
+.ContentDisplay h3 span {
+    color: #ffa500;
 }
 
 .Header {

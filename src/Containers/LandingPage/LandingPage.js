@@ -17,9 +17,7 @@ const LandingPage = () => {
 
     return (
         <div className={classes.LandingPage}>
-            <Button label={selectedHeader === "About Me" ? "Homepage" : "About Me"} select={handleSelect}/>
             <ContentDisplay header={selectedHeader}/>
-            <Button label={selectedHeader === "Work" ? "Homepage" : "Work"} select={handleSelect}/>
         </div>
     )
 };
